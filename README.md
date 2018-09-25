@@ -1,1 +1,1 @@
-TS3AudioBot-EGG
+TS3AudioBot
